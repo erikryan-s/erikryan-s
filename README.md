@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Erik, aka @erikryan-s, Melbourne based software-dev in-training!
 - 🏦 I'm a finance graduate looking to pivot to coding, and I love messing around with code!
 - 📙 I’m currently learning full-stack web dev, including HTML/CSS, JavaScript, React, Java, and more
-- 📫 Reach out on LinkedIn at [@erik-serrano](https://www.linkedin.com/in/erik-serrano/) or shoot me an email me at erik1998serrano@outlook.com
+- 📫 Reach out on LinkedIn at [@erik-serrano](https://www.linkedin.com/in/erik-serrano/) or shoot me an email at erik1998serrano@outlook.com
