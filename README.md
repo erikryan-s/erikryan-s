@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Erik, Melbourne based software engineer in-training!
 - 🏦 I'm a commerce graduate looking to pivot to coding, and I love messing around with code!
-- 📙 I’m currently learning full-stack web dev, including HTML/CSS, JavaScript, React, Java, and more
+- 📙 I've recently completed a 3 month \_nology course where I learnt: JavaScript, TypeScript, ReactJS, Java, Spring Boot + more
 - 📫 Find me on LinkedIn at [@erik-serrano](https://www.linkedin.com/in/erik-serrano/) or shoot me an email at erik1998serrano@outlook.com
